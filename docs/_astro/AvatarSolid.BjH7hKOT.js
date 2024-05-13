@@ -1,0 +1,1 @@
+import{g as n,b as a,i as o,t as $}from"./web.DVAMzkY0.js";import{u as g}from"./signals.Hw9s2jdw.js";var m=$('<div><strong>User is "<!$><!/>"');const p=()=>(()=>{var e=n(m),t=e.firstChild,i=t.firstChild,l=i.nextSibling,[r,s]=a(l.nextSibling);return r.nextSibling,o(t,g,r,s),e})();export{p as AvatarSolid};
